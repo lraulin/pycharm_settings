@@ -11,7 +11,7 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1563368914955">
+      <file name="/Python Console" timestamp="1563544903119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/config.json" timestamp="1546878429904">
@@ -64,11 +64,11 @@
       <file name="/Bash" timestamp="1561771324714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1562094542376">
-        <mark key="[" line="52" column="119" />
-        <mark key="]" line="53" column="9" />
-        <mark key="^" line="53" column="9" />
-        <mark key="." line="53" column="9" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563547024492">
+        <mark key="[" line="198" column="9" />
+        <mark key="]" line="198" column="10" />
+        <mark key="^" line="198" column="10" />
+        <mark key="." line="198" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/__init__.py" timestamp="1545411950419">
         <mark key="[" line="2" column="0" />
@@ -196,7 +196,7 @@
         <text encoding="base64">ICAgIHBhdGgubHN0YXQoKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>args.dirs</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KGYnTG9vaWlra2tpbmcgZm9yIGZpbGVzIHdpdGggbmFtZSB7bmFtZX0gYW5kIHR5cGUge3R5cGV9IGluIHtkaXJuYW1lfScpCg==</text>
@@ -223,7 +223,7 @@
         <text encoding="base64">ICAgIGZpbGVzID0gZ2V0X2ZpbGVfbGlzdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>args.dirs</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
