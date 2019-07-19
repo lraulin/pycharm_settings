@@ -88,6 +88,15 @@
         <mark key="^" line="13" column="154" />
         <mark key="." line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/test_run.sh" timestamp="1563554637646">
+        <mark key="b" line="0" column="5" />
+        <mark key="t" line="0" column="5" />
+        <mark key="[" line="2" column="182" />
+        <mark key="k" line="0" column="5" />
+        <mark key="]" line="2" column="182" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="2" column="182" />
+      </file>
       <file name="/Dummy.txt" timestamp="1563548484665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,11 +106,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563550926030">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563554955741">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/db.json" timestamp="1545413885491">
         <mark key="[" line="0" column="0" />
@@ -193,37 +202,37 @@
         <text encoding="base64">ICAgIGFjdGlvbnNfZ3JvdXAuYWRkX2FyZ3VtZW50KAogICAgICAgICItcCIsICItLXByaW50IiwgdHlwZT1ib29sLCBoZWxwPSJkaXNwbGF5IHJlc3VsdHMgdG8gY29uc29sZSIKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgubHN0YXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">U0FNUExFIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnTG9vaWlra2tpbmcgZm9yIGZpbGVzIHdpdGggbmFtZSB7bmFtZX0gYW5kIHR5cGUge3R5cGV9IGluIHtkaXJuYW1lfScpCg==</text>
+        <text encoding="base64">ZWNobyAke1BERl9GSUxFfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpcnMgPSBhcmdzLmRpcnMK</text>
+        <text encoding="base64">bHMgLWxhaCAiJHtQREZfRklMRX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpcnMgPSBpbml0X2FyZ3MoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlCg==</text>
+        <text encoding="base64">IyAuLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY25lY2lrLgo=</text>
+        <text encoding="base64">IyBpbnN0YWxsIHBkZnRrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbWJpbmVkX3RleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVkX3RleHQgPSBjb25jYXRfZmlsZXMoZmlsZXMpCg==</text>
+        <text encoding="base64">ZXhpdCAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gZ2V0X2ZpbGVfbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIHBhdGgubHN0YXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">U0FNUExFIA==</text>
       </register>
     </registers>
     <search>
