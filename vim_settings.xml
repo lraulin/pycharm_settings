@@ -29,11 +29,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/utils.py" timestamp="1561646025931">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/zed/lmpthw/unix/find/find.py" timestamp="1563286576762">
         <mark key="[" line="44" column="25" />
         <mark key="]" line="44" column="37" />
@@ -130,17 +125,23 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/commentify/commentify/foo.md" timestamp="1563561234493" />
+      <file name="$USER_HOME$/Projects/commentify/commentify/foo.sh" timestamp="1563561203627">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/requirements.txt" timestamp="1545939762022">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/commentify/commentify/commentify.py" timestamp="1563560188265">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="19" column="90" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/commentify/commentify/commentify.py" timestamp="1563560977642">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zed/unix/cat.py" timestamp="1561772003601">
         <mark key="[" line="8" column="47" />
@@ -168,11 +169,6 @@
         <mark key="]" line="8" column="18" />
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/streaming_client.py" timestamp="1546889526840">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/secrets.py" timestamp="1546878423872">
         <mark key="[" line="2" column="15" />
@@ -208,37 +204,37 @@
         <text encoding="base64">ICAgIGFjdGlvbnNfZ3JvdXAuYWRkX2FyZ3VtZW50KAogICAgICAgICItcCIsICItLXByaW50IiwgdHlwZT1ib29sLCBoZWxwPSJkaXNwbGF5IHJlc3VsdHMgdG8gY29uc29sZSIKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdW90ZWRfdGV4dAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci8yMDE5LzA3L2FuZHJldy1zdWxsaXZhbi10cnVtcC1iZXR0aW5nLWluZGVjZW5jeS1jYW4td2luLWluLWFtZXJpY2EuaHRtbD9mYmNsaWQ9SXdBUjJQYjB2TkprSzk4Y0pLb1pMdi00ZWJNNWlwaWhPRlZacHVJeEdCMWdINlBsa0lYNHF4SUtFNmR4Ywo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdW90ZWRfdGV4dAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci8yMDE5LzA3L2FuZHJldy1zdWxsaXZhbi10cnVtcC1iZXR0aW5nLWluZGVjZW5jeS1jYW4td2luLWluLWFtZXJpY2EuaHRtbD9mYmNsaWQ9SXdBUjJQYjB2TkprSzk4Y0pLb1pMdi00ZWJNNWlwaWhPRlZacHVJeEdCMWdINlBsa0lYNHF4SUtFNmR4Ywo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1b3RlZF90ZXh0ID0gIlxuXG4iLmpvaW4ocGFyYWdyYXBocykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBocy5hcHBlbmQoJyInICsgcGFyYWdyYXBoICsgJyInKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFncmFwaCA9IHBhcmFncmFwaFs6LTFdCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgcGFyYWdyYXBoWy0xXSA9PSAiICI6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ocGFyYWdyYXBoKToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBwYXJhZ3JhcGggaW4gdGV4dC5zcGxpdCgiXG4iKToK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFncmFwaHMgPSBbXQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBUT0RPOiBUcmlwbGUgY29tbWVudHMgaW4gUHl0aG9uIGFyZSBzdHJpbmcgbGl0ZXJhbHMsIHVzZWQgZm9yIGRvY3N0cmluZ3MuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBwcmVmaXg6IAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>where</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -260,6 +256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
