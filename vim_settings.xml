@@ -101,11 +101,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563554955741">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563806460852">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/db.json" timestamp="1545413885491">
         <mark key="[" line="0" column="0" />
@@ -125,7 +125,6 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/commentify/commentify/foo.md" timestamp="1563562158029" />
       <file name="$USER_HOME$/Projects/commentify/commentify/foo.sh" timestamp="1563561203627">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
@@ -170,6 +169,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/start.sh" timestamp="1563806310906">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/secrets.py" timestamp="1546878423872">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="65" />
@@ -201,22 +206,22 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnNfZ3JvdXAuYWRkX2FyZ3VtZW50KAogICAgICAgICItcCIsICItLXByaW50IiwgdHlwZT1ib29sLCBoZWxwPSJkaXNwbGF5IHJlc3VsdHMgdG8gY29uc29sZSIKICAgICkK</text>
+        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci8yMDE5LzA3L2FuZHJldy1zdWxsaXZhbi10cnVtcC1iZXR0aW5nLWluZGVjZW5jeS1jYW4td2luLWluLWFtZXJpY2EuaHRtbD9mYmNsaWQ9SXdBUjJQYjB2TkprSzk4Y0pLb1pMdi00ZWJNNWlwaWhPRlZacHVJeEdCMWdINlBsa0lYNHF4SUtFNmR4Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci8yMDE5LzA3L2FuZHJldy1zdWxsaXZhbi10cnVtcC1iZXR0aW5nLWluZGVjZW5jeS1jYW4td2luLWluLWFtZXJpY2EuaHRtbD9mYmNsaWQ9SXdBUjJQYjB2TkprSzk4Y0pLb1pMdi00ZWJNNWlwaWhPRlZacHVJeEdCMWdINlBsa0lYNHF4SUtFNmR4Ywo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAiJEZJTEUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAiJFBBU1NXT1JEIgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -225,16 +230,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAiJFBBU1NXT1JEIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPOiBUcmlwbGUgY29tbWVudHMgaW4gUHl0aG9uIGFyZSBzdHJpbmcgbGl0ZXJhbHMsIHVzZWQgZm9yIGRvY3N0cmluZ3MuCg==</text>
+        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBwcmVmaXg6IAo=</text>
+        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
