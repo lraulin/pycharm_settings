@@ -59,12 +59,13 @@
       <file name="/Bash" timestamp="1561771324714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563820556265">
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563820962104">
         <mark key="'" line="250" column="44" />
-        <mark key="[" line="393" column="32" />
-        <mark key="]" line="393" column="40" />
-        <mark key="." line="393" column="40" />
-        <mark key="^" line="393" column="40" />
+        <mark key="w" line="291" column="25" />
+        <mark key="[" line="292" column="71" />
+        <mark key="]" line="292" column="71" />
+        <mark key="." line="292" column="71" />
+        <mark key="^" line="292" column="71" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/__init__.py" timestamp="1545411950419">
         <mark key="[" line="2" column="0" />
