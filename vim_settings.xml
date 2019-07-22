@@ -11,7 +11,7 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1563816910955">
+      <file name="/Python Console" timestamp="1563824996407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/config.json" timestamp="1546878429904">
@@ -96,6 +96,12 @@
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="154" />
         <mark key="." line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/financial_tracker/pynances/get_data.py" timestamp="1563825923700">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/test_run.sh" timestamp="1563554637646">
         <mark key="b" line="0" column="5" />
@@ -238,8 +244,8 @@
       <jump line="250" column="44" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgNAo=</text>
+      <register name="&quot;" type="4">
+        <text>re.match(reYYYYMMDD, filename)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -480,37 +486,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>selfself</text>
+        <text>re.match(reYYYYMMDD, filename)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFtYmRhIHg6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzb3J0ZWRfc2V0IGltcG9ydCBTb3J0ZWRTZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ZnJvbSBzb3J0ZWRfc2V0IGltcG9ydCBTb3J0ZWRTZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXBvcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXBvcnQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoRmluZGluZ3NDb2xsZWN0aW9uLCBzZWxmKS5fX2lhZGRfXyh4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
