@@ -101,11 +101,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563806460852">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="25" column="34" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563809892992">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/db.json" timestamp="1545413885491">
         <mark key="[" line="0" column="0" />
@@ -209,37 +209,37 @@
         <text encoding="base64">ZWNobyAiJFBXRCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2NkICcuLi92dWxuZXJhYmlsaXR5X3Zpc3VhbGl6YXRpb24nCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>'findings_collection.py' ${PDF_FILE}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnbyBiYWNrIHRvIHByb2plY3Qgcm9vdCBhbmQgcnVuIFB5dGhvbiBzY3JpcHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiJEZJTEUiCg==</text>
+        <text encoding="base64">UFlfRU5UUlk9Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiJFBBU1NXT1JEIgo=</text>
+        <text encoding="base64">cGRmdGsgIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHdkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChwd2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAiJFBBU1NXT1JEIgo=</text>
+        <text encoding="base64">Y2QgJy4uL2lucHV0JyB8fCBleGl0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
+        <text encoding="base64">IyBjcmVhdGUgZGlyZWN0b3JpZXMgYW5kIGNoYW5nZSB0byBpbnB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
+        <text encoding="base64">bWtkaXIgJy4uL291dHB1dCcK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'findings_collection.py' ${PDF_FILE}</text>
       </register>
     </registers>
     <search>
