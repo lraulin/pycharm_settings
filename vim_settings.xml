@@ -73,6 +73,12 @@
         <mark key="^" line="0" column="75" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/spam/custom_collection/test_main.py" timestamp="1563822843771">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/.gitignore" timestamp="1546005903568">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="4" column="11" />
@@ -189,6 +195,12 @@
         <mark key="^" line="75" column="15" />
         <mark key="." line="76" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/spam/custom_collection/main.py" timestamp="1563822632874">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/zed/lmpthw/cat/cat.py" timestamp="1563208201072">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -221,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MutableSequence</text>
+        <text>7, 8, 3, 1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -462,37 +474,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MutableSequence</text>
+        <text>7, 8, 3, 1</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBmYyA9IEZpbmRpbmdzQ29sbGVjdGlvbigpCiAgICAgICAgZmMuaW1wb3J0X2FsbCgpCiAgICAgICAgZmMuYXBwbHlfbW9kZXMoKQogICAgICAgIHNhdmUoZmMsICJGaW5kaW5nc0NvbGxlY3Rpb24uZGF0Iik=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Zyb21fc2VxdWVuY2Uoc2VsZik6CiAgICAgICAgcyA9IFNvcnRlZFNldChbNywgOCwgMywgMV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
+        <text encoding="base64">bXBvcnQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoRmluZGluZ3NDb2xsZWN0aW9uLCBzZWxmKS5fX2lhZGRfXyh4KQo=</text>
+        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoRmluZGluZ3NDb2xsZWN0aW9uLCBzZWxmKS5fX2lhZGRfXyh4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG8pICE9IHR5cGUoRmluZGluZ3NDb2xsZWN0aW9uKToK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2lhZGRfXyhzZWxmLCB4OiBGaW5kaW5nc0NvbGxlY3Rpb24pIC0+IEZpbmRpbmdzQ29sbGVjdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yCg==</text>
       </register>
     </registers>
     <search>
