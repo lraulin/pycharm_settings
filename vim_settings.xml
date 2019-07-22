@@ -59,12 +59,12 @@
       <file name="/Bash" timestamp="1561771324714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563818579996">
-        <mark key="'" line="282" column="34" />
-        <mark key="[" line="246" column="19" />
-        <mark key="]" line="246" column="19" />
-        <mark key="." line="246" column="19" />
-        <mark key="^" line="243" column="27" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563820556265">
+        <mark key="'" line="250" column="44" />
+        <mark key="[" line="393" column="32" />
+        <mark key="]" line="393" column="40" />
+        <mark key="." line="393" column="40" />
+        <mark key="^" line="393" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/__init__.py" timestamp="1545411950419">
         <mark key="[" line="2" column="0" />
@@ -216,10 +216,11 @@
       <jump line="507" column="26" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
       <jump line="272" column="43" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
       <jump line="281" column="34" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="250" column="44" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>MutableSequence</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -460,37 +461,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>MutableSequence</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBmYyA9IEZpbmRpbmdzQ29sbGVjdGlvbigpCiAgICAgICAgZmMuaW1wb3J0X2FsbCgpCiAgICAgICAgZmMuYXBwbHlfbW9kZXMoKQogICAgICAgIHNhdmUoZmMsICJGaW5kaW5nc0NvbGxlY3Rpb24uZGF0Iik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVtcHR5X291dHB1dF9kaSkK</text>
+        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UFJPSkVDVF9ST09UOiBwYXRobGliLlB1cmVQYXRoID0gVEhJU19ESVIucGFyZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T1VUUFVUX0RJUjogcGF0aGxpYi5QdXJlUGF0aCA9IFRISVNfRElSIC8gIm91dHB1dCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoRmluZGluZ3NDb2xsZWN0aW9uLCBzZWxmKS5fX2lhZGRfXyh4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKGZpbGVuYW1lKSA9PSAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG8pICE9IHR5cGUoRmluZGluZ3NDb2xsZWN0aW9uKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2lhZGRfXyhzZWxmLCB4OiBGaW5kaW5nc0NvbGxlY3Rpb24pIC0+IEZpbmRpbmdzQ29sbGVjdGlvbjoK</text>
       </register>
     </registers>
     <search>
@@ -515,6 +516,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
