@@ -11,7 +11,7 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1563549297642">
+      <file name="/Python Console" timestamp="1563816910955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/config.json" timestamp="1546878429904">
@@ -59,11 +59,12 @@
       <file name="/Bash" timestamp="1561771324714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563547024492">
-        <mark key="[" line="198" column="9" />
-        <mark key="]" line="198" column="10" />
-        <mark key="^" line="198" column="10" />
-        <mark key="." line="198" column="10" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563818579996">
+        <mark key="'" line="282" column="34" />
+        <mark key="[" line="246" column="19" />
+        <mark key="]" line="246" column="19" />
+        <mark key="." line="246" column="19" />
+        <mark key="^" line="243" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/__init__.py" timestamp="1545411950419">
         <mark key="[" line="2" column="0" />
@@ -101,11 +102,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563809892992">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="20" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/extract_pdf.sh" timestamp="1563816403332">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/twitter-db-updater/src/twitter_db_updater/db.json" timestamp="1545413885491">
         <mark key="[" line="0" column="0" />
@@ -169,11 +170,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/start.sh" timestamp="1563806310906">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/start.sh" timestamp="1563816431506">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/twitter-db-updater/src/twitter_db_updater/secrets.py" timestamp="1546878423872">
         <mark key="[" line="2" column="15" />
@@ -195,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
       <jump line="9" column="1" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
@@ -203,43 +203,294 @@
       <jump line="10" column="0" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/zed/lmpthw/data_structures/singly_linked_list.py" />
+      <jump line="229" column="26" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="230" column="11" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="123" column="12" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="491" column="30" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="338" column="8" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="494" column="4" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="507" column="26" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="272" column="43" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
+      <jump line="281" column="34" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiJFBXRCIK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">I2NkICcuLi92dWxuZXJhYmlsaXR5X3Zpc3VhbGl6YXRpb24nCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>'findings_collection.py' ${PDF_FILE}</text>
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBnbyBiYWNrIHRvIHByb2plY3Qgcm9vdCBhbmQgcnVuIFB5dGhvbiBzY3JpcHQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UFlfRU5UUlk9Jwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGRmdGsgIiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHdkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">JChwd2QK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2QgJy4uL2lucHV0JyB8fCBleGl0Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBjcmVhdGUgZGlyZWN0b3JpZXMgYW5kIGNoYW5nZSB0byBpbnB1dAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">bWtkaXIgJy4uL291dHB1dCcK</text>
+      <register name="j" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>'findings_collection.py' ${PDF_FILE}</text>
+        <text>)</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBmYyA9IEZpbmRpbmdzQ29sbGVjdGlvbigpCiAgICAgICAgZmMuaW1wb3J0X2FsbCgpCiAgICAgICAgZmMuYXBwbHlfbW9kZXMoKQogICAgICAgIHNhdmUoZmMsICJGaW5kaW5nc0NvbGxlY3Rpb24uZGF0Iik=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVtcHR5X291dHB1dF9kaSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UFJPSkVDVF9ST09UOiBwYXRobGliLlB1cmVQYXRoID0gVEhJU19ESVIucGFyZW50Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">T1VUUFVUX0RJUjogcGF0aGxpYi5QdXJlUGF0aCA9IFRISVNfRElSIC8gIm91dHB1dCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKGZpbGVuYW1lKSA9PSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
