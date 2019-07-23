@@ -59,13 +59,13 @@
       <file name="/Bash" timestamp="1561771324714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563820962104">
+      <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" timestamp="1563886904265">
         <mark key="'" line="250" column="44" />
         <mark key="w" line="291" column="25" />
-        <mark key="[" line="292" column="71" />
-        <mark key="]" line="292" column="71" />
-        <mark key="." line="292" column="71" />
-        <mark key="^" line="292" column="71" />
+        <mark key="[" line="282" column="8" />
+        <mark key="]" line="282" column="22" />
+        <mark key="." line="282" column="22" />
+        <mark key="^" line="282" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/spam/custom_collection/sorted_containers.py" timestamp="1563823936858">
         <mark key="[" line="2" column="35" />
@@ -245,7 +245,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>re.match(reYYYYMMDD, filename)</text>
+        <text>list</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -486,7 +486,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>re.match(reYYYYMMDD, filename)</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgNAo=</text>
