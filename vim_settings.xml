@@ -97,12 +97,11 @@
         <mark key="^" line="13" column="154" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/financial_tracker/pynances/get_data.py" timestamp="1563892644007">
-        <mark key="b" line="14" column="17" />
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/Projects/financial_tracker/pynances/get_data.py" timestamp="1563896320900">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/test_run.sh" timestamp="1563554637646">
         <mark key="b" line="0" column="5" />
@@ -245,8 +244,8 @@
       <jump line="250" column="44" filename="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/findings_collection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -487,37 +486,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>lambda a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICNyZVlZWVlNTUREID0gcmUuY29tcGlsZShyIihbMTJdXGR7M30tKDBbMS05XXwxWzAtMl0pLSgwWzEtOV18WzEyXVxkfDNbMDFdKSkuY3N2IikK</text>
+        <text encoding="base64">ICAgIGRheSA9IG1hdGNoLmdyb3VwKCdkYXknKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGFtYmRhIHg6IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vc3RfcmVjZW50X2V4cG9ydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzb3J0ZWRfc2V0IGltcG9ydCBTb3J0ZWRTZXQK</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">cHJpbnQoZGlyX2NvbnRlbnRzKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bXBvcnQgCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">bGFtYmRhIGEsIGM6IGMgaWYgY1snZGF0ZSddID49IGFbJ2RhdGUnXSBlbHNlIGE=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHByaW50LnBwcmludChmaWxlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5kaW5ncyA9IHNlbGYuZmluZGluZ3MucmV2ZXJzZSgpCg==</text>
+        <text encoding="base64">ICAgICNyZVlZWVlNTUREID0gcmUuY29tcGlsZShyIihbMTJdXGR7M30tKDBbMS05XXwxWzAtMl0pLSgwWzEtOV18WzEyXVxkfDNbMDFdKSkuY3N2IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXZlcnNlKHNlbGYpIC0+IE5vbmU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlWVlZWU1NREQgPSByZS5jb21waWxlKHIiLiooP1A8eWVhcj5bMTJdWzA5XVxkXGQpLSg/UDxtb250aD5bMDFdXGQpLSg/UDxkYXk+WzAxMjNdXGQpXC4oP1A8ZXh0ZW5zaW9uPmNzdikiKQo=</text>
       </register>
     </registers>
     <search>
