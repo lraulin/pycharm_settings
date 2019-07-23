@@ -97,11 +97,12 @@
         <mark key="^" line="13" column="154" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/financial_tracker/pynances/get_data.py" timestamp="1563888411613">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/Projects/financial_tracker/pynances/get_data.py" timestamp="1563892644007">
+        <mark key="b" line="14" column="17" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/vulnerability_visualization/vulnerability_visualization/test_run.sh" timestamp="1563554637646">
         <mark key="b" line="0" column="5" />
@@ -112,7 +113,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="182" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563548484665">
+      <file name="/Dummy.txt" timestamp="1563891870561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/algorithms/py/descending_order.py" timestamp="1562418709170">
@@ -245,7 +246,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -486,10 +487,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgNAo=</text>
+        <text encoding="base64">ICAgICNyZVlZWVlNTUREID0gcmUuY29tcGlsZShyIihbMTJdXGR7M30tKDBbMS05XXwxWzAtMl0pLSgwWzEtOV18WzEyXVxkfDNbMDFdKSkuY3N2IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGFtYmRhIHg6IAo=</text>
